@@ -10,7 +10,7 @@
 }
 
 .header {
-  font-size: 5vw;
+  font-size: clamp(3rem, 5vw, 5rem);
   font-weight: bold;
   height: 1em;
 }
