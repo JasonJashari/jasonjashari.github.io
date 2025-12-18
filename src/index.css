@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap");
+
+:root {
+  --primary-bg-color: #181818;
+
+  --light-color-1: whitesmoke;
+  --light-color-2: grey;
+
+  --spacing-xs: 3px;
+  --spacing-sm: 5px;
+
+  --font-size-md: 21px;
+  --font-size-lg: 55px;
+  --font-size-xl: 89px;
+}
+
+body {
+  background-color: var(--primary-bg-color);
+  font-family: "Google Sans", sans-serif;
+  color: var(--light-color-1);
+}
