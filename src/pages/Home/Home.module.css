@@ -5,15 +5,14 @@
   align-items: center;
   justify-content: center;
   font-size: var(--font-size-md);
+  text-align: center;
   gap: 1em;
 }
 
 .header {
-  font-size: var(--font-size-xl);
+  font-size: 5vw;
   font-weight: bold;
-
-  margin-bottom: -21px;
-  letter-spacing: -1px;
+  height: 1em;
 }
 
 .title {
